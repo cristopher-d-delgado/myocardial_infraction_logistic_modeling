@@ -609,182 +609,182 @@ List of attributes
         1: yes		396	    23.29%
         Missing		677	    39.82%
 99. Use of liquid nitrates in the ICU (NITR_S): Nominal
-                    
+                
                     Cases	Fraction
         0: no		1496	88.00%
         1: yes		195	    11.47%
         Missing		9	    0.53%
 100. Use of opioid drugs in the ICU in the first hours of the hospital period (NA_R_1_n): Ordinal
                 
-                        Cases	Fraction
-        0: no		    1108	65.18%
-        1: once	        409	    24.06%
-        2: twice	    132	    7.76%
-        3: three times	35	    2.06%
-        4: four times	11	    0.65%
-        Missing		    5	    0.29%	
+                                Cases	Fraction
+            0: no		        1108	65.18%
+            1: once	            409	    24.06%
+            2: twice	            132	    7.76%
+            3: three times	    35	    2.06%
+            4: four times	    11	    0.65%
+            Missing		        5	    0.29%	
 101. Use of opioid drugs in the ICU in the second day of the hospital period (NA_R_2_n): Ordinal
-                
-                        Cases	Fraction
-        0: no		    1474	86.71%
-        1: once	        87	    5.12%
-        2: twice	    30	    1.76%
-        3: three times	1	    0.06%
-        Missing		    108	    6.35%
-102. Use of opioid drugs in the ICU in the third day of the hospital period (NA_R_3_n): Ordinal
-                
-                    Cases	Fraction
-        0: no		1493	87.82%
-        1: once	    60	    3.53%
-        2: twice	16	    0.94%
-        Missing		131	    7.71%
-103. Use of NSAIDs in the ICU in the first hours of the hospital period (NOT_NA_1_n): Ordinal
                     
                                 Cases	Fraction
-        0: no			        1237	72.76%
-        1: once		            376	    22.12%
-        2: twice		        53	    3.12%
-        3: three times		    17	    1.00%
-        4: four or more times	7	    0.41%
-        Missing			        10	    0.59%
-104. Use of NSAIDs in the ICU in the second day of the hospital period (NOT_NA_2_n): Ordinal
-                
+            0: no		        1474	86.71%
+            1: once	            87	    5.12%
+            2: twice	            30	    1.76%
+            3: three times	    1	    0.06%
+            Missing		        108	    6.35%
+102. Use of opioid drugs in the ICU in the third day of the hospital period (NA_R_3_n): Ordinal
+                    
                         Cases	Fraction
-        0: no		    1454	85.53%
-        1: once	        95	    5.59%
-        2: twice	    38	    2.24%
-        3: three times	3	    0.18%
-        Missing		    110	    6.47%
+            0: no		1493	87.82%
+            1: once	    60	    3.53%
+            2: twice	    16	    0.94%
+            Missing		131	    7.71%
+103. Use of NSAIDs in the ICU in the first hours of the hospital period (NOT_NA_1_n): Ordinal
+                        
+                                    Cases	Fraction
+            0: no			        1237	72.76%
+            1: once		            376	    22.12%
+            2: twice		            53	    3.12%
+            3: three times		    17	    1.00%
+            4: four or more times	7	    0.41%
+            Missing			        10	    0.59%
+104. Use of NSAIDs in the ICU in the second day of the hospital period (NOT_NA_2_n): Ordinal
+                    
+                            Cases	Fraction
+            0: no		    1454	85.53%
+            1: once	        95	    5.59%
+            2: twice	        38	    2.24%
+            3: three times	3	    0.18%
+            Missing		    110	    6.47%
 105. Use of NSAIDs in the ICU in the third day of the hospital period (NOT_NA_3_n): Ordinal
-                
-                    Cases	Fraction
-        0: no		1474	86.71%
-        1: once	    57	    3.35%
-        2: twice	38	    2.24%
-        Missing		131	    7.71%
+                    
+                        Cases	Fraction
+            0: no		1474	86.71%
+            1: once	    57	    3.35%
+            2: twice        38      2.24%
+            Missing		131	    7.71%
 106. Use of lidocaine in the ICU (LID_S_n): Nominal
-                
-                    Cases	Fraction
-        0: no		1211	71.24%
-        1: yes		479	    28.18%
-        Missing		10	    0.59%
+                    
+                        Cases	Fraction
+            0: no		1211	71.24%
+            1: yes		479	    28.18%
+            Missing		10	    0.59%
 107. Use of beta-blockers in the ICU (B_BLOK_S_n): Nominal
-                
-                    Cases	Fraction
-        0: no		1474	86.71%
-        1: yes		215	    12.65%
-        Missing		11	    0.65%
+                    
+                        Cases	Fraction
+            0: no		1474	86.71%
+            1: yes		215	    12.65%
+            Missing		11	    0.65%
 108. Use of calcium channel blockers in the ICU (ANT_CA_S_n): Nominal
-                
-                    Cases	Fraction
-        0: no		562	    33.06%
-        1: yes		1125	66.18%
-        Missing		13	    0.76%
+                    
+                        Cases	Fraction
+            0: no		562	    33.06%
+            1: yes		1125	66.18%
+            Missing		13	    0.76%
 109. Use of Ð° anticoagulants (heparin) in the ICU (GEPAR_S_n): Nominal
-                    
-                    Cases	Fraction
-        0: no		480	    28.24%
-        1: yes		1203	70.76%
-        Missing		17	    1.00%
+                        
+                        Cases	Fraction
+            0: no		480	    28.24%
+            1: yes		1203	70.76%
+            Missing		17	    1.00%
 110. Use of acetylsalicylic acid in the ICU (ASP_S_n): Nominal
-                
-                    Cases	Fraction
-        0: no		431	    25.35%
-        1: yes		1252	73.65%
-        Missing		17	    1.00%
-111. Use of Ticlid in the ICU (TIKL_S_n): Nominal
                     
-                    Cases	Fraction
-        0: no		1654	97.29%
-        1: yes		30	    1.76%
-        Missing		16	    0.94%
+                        Cases	Fraction
+            0: no		431	    25.35%
+            1: yes		1252	73.65%
+            Missing		17	    1.00%
+111. Use of Ticlid in the ICU (TIKL_S_n): Nominal
+                        
+                        Cases	Fraction
+            0: no		1654	97.29%
+            1: yes		30	    1.76%
+            Missing		16	    0.94%
 112. Use of Trental in the ICU (TRENT_S_n): Nominal
-                
-                    Cases	Fraction
-        0: no		1343	79.00%
-        1: yes		341	    20.06%
-        Missing		16	    0.94%
+                    
+                        Cases	Fraction
+            0: no		1343	79.00%
+            1: yes		341	    20.06%
+            Missing		16	    0.94%
 
 Complications and outcomes of myocardial infarction: 
 
 113. Atrial fibrillation (FIBR_PREDS): Nominal
-                
-                    Cases	Fraction
-        0: no		1530	90.00%
-        1: yes 	    170	    10.00%
-        Missing		0	    0%
-114. Supraventricular tachycardia (PREDS_TAH): Nominal
-                
-                    Cases	Fraction
-        0: no		1680	98.82%
-        1: yes 	    20	    1.18%
-        Missing		0	    0%
-115. Ventricular tachycardia (JELUD_TAH): Nominal
                     
-                    Cases	Fraction
-        0: no		1658	97.53%
-        1: yes 	    42	    2.47%
-        Missing		0	    0%
+                        Cases	Fraction
+            0: no		1530	90.00%
+            1: yes 	    170	    10.00%
+            Missing		0	    0%
+114. Supraventricular tachycardia (PREDS_TAH): Nominal
+                    
+                        Cases	Fraction
+            0: no		1680	98.82%
+            1: yes 	    20	    1.18%
+            Missing		0	    0%
+115. Ventricular tachycardia (JELUD_TAH): Nominal
+                        
+                        Cases	Fraction
+            0: no		1658	97.53%
+            1: yes 	    42	    2.47%
+            Missing		0	    0%
 116. Ventricular fibrillation (FIBR_JELUD): Nominal
-                
-                    Cases	Fraction
-        0: no		1629	95.82%
-        1: yes 	    71	    4.18%
-        Missing		0	    0%
+                    
+                        Cases	Fraction
+            0: no		1629	95.82%
+            1: yes 	    71	    4.18%
+            Missing		0	    0%
 117. Third-degree AV block (A_V_BLOK): Nominal
-                
-                    Cases	Fraction
-        0: no		1643	96.65%
-        1: yes 	    57	    3.35%
-        Missing		0	    0%
+                    
+                        Cases	Fraction
+            0: no		1643	96.65%
+            1: yes 	    57	    3.35%
+            Missing		0	    0%
 118. Pulmonary edema (OTEK_LANC): Nominal
-                
-                    Cases	Fraction
-        0: no		1541	90.65%
-        1: yes 	    159	    9.35%
-        Missing		0	    0%
+                    
+                        Cases	Fraction
+            0: no		1541	90.65%
+            1: yes 	    159	    9.35%
+            Missing		0	    0%
 119. Myocardial rupture (RAZRIV): Nominal
-                
-                    Cases	Fraction
-        0: no		1646	96.82%
-        1: yes 	    54	    3.18%
-        Missing		0	    0%
+                    
+                        Cases	Fraction
+            0: no		1646	96.82%
+            1: yes 	    54	    3.18%
+            Missing		0	    0%
 120. Dressler syndrome (DRESSLER): Nominal
-                
-                    Cases	Fraction
-        0: no		1625	95.59%
-        1: yes 	    75	    4.41%
-        Missing		0	    0%
+                    
+                        Cases	Fraction
+            0: no		1625	95.59%
+            1: yes 	    75	    4.41%
+            Missing		0	    0%
 121. Chronic heart failure (ZSN): Nominal
-                
-                    Cases	Fraction
-        0: no		1306	76.82%
-        1: yes 	    394	    23.18%
-        Missing		0	    0%
+                    
+                        Cases	Fraction
+            0: no		1306	76.82%
+            1: yes 	    394	    23.18%
+            Missing		0	    0%
 122. Relapse of the myocardial infarction (REC_IM): Nominal
-                
-                    Cases	Fraction
-        0: no		1541	90.65%
-        1: yes 	    159	    9.35%
-        Missing		0	    0%
+                    
+                        Cases	Fraction
+            0: no		1541	90.65%
+            1: yes 	    159	    9.35%
+            Missing		0	    0%
 123. Post-infarction angina (P_IM_STEN): Nominal
-                
-                    Cases	Fraction
-        0: no		1552	91.29%
-        1: yes 	    148	    8.71%
-        Missing		0	    0%
+                    
+                        Cases	Fraction
+            0: no		1552	91.29%
+            1: yes 	    148	    8.71%
+            Missing		0	    0%
 124. Lethal outcome (cause) (LET_IS): Structure
-                                
-                                                    Cases	Fraction
-        0: unknown (alive)				            1429	84.06%
-        1: cardiogenic shock			            110	    6.47%
-        2: pulmonary edema				            18	    1.06%
-        3: myocardial rupture			            54	    3.18%
-        4: progress of congestive heart failure	    23	    1.35%
-        5: thromboembolism				            12	    0.71%
-        6: asystole					                27	    1.59%
-        7: ventricular fibrillation			        27	    1.59%
-        Missing						                0	    0%
+                                                        
+                                                        Cases	Fraction
+            0: unknown (alive)				            1429	84.06%
+            1: cardiogenic shock			                110	    6.47%
+            2: pulmonary edema				            18	    1.06%
+            3: myocardial rupture			            54	    3.18%
+            4: progress of congestive heart failure	    23	    1.35%
+            5: thromboembolism				            12	    0.71%
+            6: asystole					                27	    1.59%
+            7: ventricular fibrillation			        27	    1.59%
+            Missing						                0	    0%
 
 Summary statistics for real attributes
 Attribute	Min	Max	Mean	STD	Missing cases	Missing fraction
